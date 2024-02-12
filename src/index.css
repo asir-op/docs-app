@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import url('https://fonts.cdnfonts.com/css/gilroy-bold'); */
+
+*{
+  font-family: 'Fira Sans', sans-serif;
+}
+
+::selection{
+  color: rgb(245, 191, 12);
+}
